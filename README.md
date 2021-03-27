@@ -15,6 +15,5 @@
 
 #### Misc
 
-* Project Hexanet: https://hexanet.dev
 * Mostly empty blog: https://foxcpp.dev
 * Donate ~~to the Church of St. Deering~~: https://foxcpp.dev/donate
