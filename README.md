@@ -10,10 +10,7 @@
 #### Contact info
 
 * [Email](mailto:fox.cpp+github@disroot.org) 
-* [PGP: 34BB2007081396F4](https://foxcpp.dev/key.asc) 
+* [PGP: 34BB2007081396F4] 
 * [Telegram](https://t.me/foxcpp0)
 
-#### Misc
 
-* Mostly empty blog: https://foxcpp.dev
-* Donate ~~to the Church of St. Deering~~: https://foxcpp.dev/donate
